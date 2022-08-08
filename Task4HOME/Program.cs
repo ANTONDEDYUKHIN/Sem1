@@ -7,28 +7,7 @@ Console.Write("Введите число b= ");
 int b = Convert.ToInt32(System.Console.ReadLine());
 Console.Write("Введите число c= ");
 int c = Convert.ToInt32(System.Console.ReadLine());
-if (a > b) 
-{
-    a = max;
-}
-else
-{
-    b = max;
-}
-if (b > c)
-{
-    b = max;
-}
-else
-{
-    c = max;
-}
-if (c > a)
-{
-    c = max;
-}
-else
-{
-    a = max;
-}
+int max = a;
+if (b > max) max = b;
+if (c > max) max = c;
 Console.WriteLine($"максимальное число = {max}");
