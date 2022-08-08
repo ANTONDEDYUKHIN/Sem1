@@ -3,3 +3,13 @@ C:\Users\User\Documents\Homework\conspect, seminar\06. C#\seminar 1\Task4HOME\ob
 C:\Users\User\Documents\Homework\conspect, seminar\06. C#\seminar 1\Task4HOME\obj\Debug\net6.0\Task4HOME.AssemblyInfoInputs.cache
 C:\Users\User\Documents\Homework\conspect, seminar\06. C#\seminar 1\Task4HOME\obj\Debug\net6.0\Task4HOME.AssemblyInfo.cs
 C:\Users\User\Documents\Homework\conspect, seminar\06. C#\seminar 1\Task4HOME\obj\Debug\net6.0\Task4HOME.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Homework\conspect, seminar\06. C#\seminar 1\Task4HOME\bin\Debug\net6.0\Task4HOME.exe
+C:\Users\User\Documents\Homework\conspect, seminar\06. C#\seminar 1\Task4HOME\bin\Debug\net6.0\Task4HOME.deps.json
+C:\Users\User\Documents\Homework\conspect, seminar\06. C#\seminar 1\Task4HOME\bin\Debug\net6.0\Task4HOME.runtimeconfig.json
+C:\Users\User\Documents\Homework\conspect, seminar\06. C#\seminar 1\Task4HOME\bin\Debug\net6.0\Task4HOME.dll
+C:\Users\User\Documents\Homework\conspect, seminar\06. C#\seminar 1\Task4HOME\bin\Debug\net6.0\Task4HOME.pdb
+C:\Users\User\Documents\Homework\conspect, seminar\06. C#\seminar 1\Task4HOME\obj\Debug\net6.0\Task4HOME.dll
+C:\Users\User\Documents\Homework\conspect, seminar\06. C#\seminar 1\Task4HOME\obj\Debug\net6.0\refint\Task4HOME.dll
+C:\Users\User\Documents\Homework\conspect, seminar\06. C#\seminar 1\Task4HOME\obj\Debug\net6.0\Task4HOME.pdb
+C:\Users\User\Documents\Homework\conspect, seminar\06. C#\seminar 1\Task4HOME\obj\Debug\net6.0\Task4HOME.genruntimeconfig.cache
+C:\Users\User\Documents\Homework\conspect, seminar\06. C#\seminar 1\Task4HOME\obj\Debug\net6.0\ref\Task4HOME.dll
