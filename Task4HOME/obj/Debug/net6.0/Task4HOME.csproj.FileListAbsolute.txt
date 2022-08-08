@@ -1,0 +1,5 @@
+C:\Users\User\Documents\Homework\conspect, seminar\06. C#\seminar 1\Task4HOME\obj\Debug\net6.0\Task4HOME.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Homework\conspect, seminar\06. C#\seminar 1\Task4HOME\obj\Debug\net6.0\Task4HOME.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Homework\conspect, seminar\06. C#\seminar 1\Task4HOME\obj\Debug\net6.0\Task4HOME.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Homework\conspect, seminar\06. C#\seminar 1\Task4HOME\obj\Debug\net6.0\Task4HOME.AssemblyInfo.cs
+C:\Users\User\Documents\Homework\conspect, seminar\06. C#\seminar 1\Task4HOME\obj\Debug\net6.0\Task4HOME.csproj.CoreCompileInputs.cache
