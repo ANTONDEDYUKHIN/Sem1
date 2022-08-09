@@ -4,8 +4,8 @@
 Console.Write("Enter int number: ");
 int a = Convert.ToInt32(Console.ReadLine());
 
-Console.Write("Print numbers in diap -N:N :");
-for (int i = -a; i <= a; i++);
+Console.Write("All numbers of interval -N:N:");
+for (int i = -a; i <= a; i++)
 {
-    Console.Write(i + " ");
+    Console.Write(i +" ");
 }
